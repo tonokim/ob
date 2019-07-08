@@ -1,0 +1,19 @@
+{
+  "name": "ob-app",
+  "version": "0.0.0",
+  "description": "generate react app",
+  "main": "index.js",
+  "bin": {
+    "ob": "./index.js"
+  },
+  "author": "tonokim <tonokim@qq.com>",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "commander": "^2.20.0",
+    "download-git-repo": "^2.0.0",
+    "fs-extra": "^8.1.0",
+    "inquirer": "^6.4.1",
+    "ora": "^3.4.0"
+  }
+}
