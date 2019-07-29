@@ -11,6 +11,10 @@ const templateList = {
     "repo": "tonokim/mobx-base",
     "branch": ""
   },
+  "mobx-base-i18n": {
+    "repo": "tonokim/mobx-base",
+    "branch": "#i18n"
+  },
   "mst-next": {
     "repo": "tonokim/mst-next",
     "branch": ""
