@@ -1,6 +1,6 @@
 {
   "name": "ob-app",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "generate react app",
   "main": "index.js",
   "bin": {
