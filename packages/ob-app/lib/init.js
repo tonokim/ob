@@ -21,7 +21,7 @@ const templateList = {
   },
   "mobx-next-i18n": {
     "repo": "tonokim/mobx-next",
-    "branch": "i18n"
+    "branch": "#i18n"
   },
   "mst-next": {
     "repo": "tonokim/mst-next",
